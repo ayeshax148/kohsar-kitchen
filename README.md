@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| Student | [YOUR NAME] |
-| Roll number | [ROLL NO] |
-| Section | [SECTION] |
-| GitHub | [https://github.com/USERNAME/kohsar-kitchen] |
+| Student | Ayesha Irfan|
+| Roll number | 24i-2077 |
+| Section | CY - A |
+| GitHub | [https://github.com/ayeshax148/kohsar-kitchen] |
 | Deployment | [https://kohsar-kitchen.vercel.app] |
 | Final commit | [FINAL COMMIT HASH] |
 
